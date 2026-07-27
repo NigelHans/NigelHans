@@ -24,12 +24,15 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,js,dotnet,react,laravel,flutter,postgres,mysql,supabase,firebase,git,github,figma" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,cpp" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,dotnet,react" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel,flutter,postgres" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,git" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,figma" />
 </p>
+
 ---
+
 ## Connection
 
 I am open to internships, collaborations, and opportunities to work on meaningful projects. Feel free to reach out.
