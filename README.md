@@ -12,14 +12,26 @@
 
 ## About Me
 
-I am a Computer Science student at Batangas State University – The National Engineering University. I enjoy building practical systems that solve real problems, especially in areas related to AI and web/App Development.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Currently, I am focused on improving my skills in cloud technologies, system design, and automation while working on projects that have real-world impact.
+### Background
+I am a Computer Science student at Batangas State University – The National Engineering University with a focus on building functional, production-ready software.
 
-- SOFI AI Tech Solution Inc. Intern
-- Working on AI-powered and healthcare-related systems
-- Continuously learning about scalable and efficient architectures  
-- Interested in developing tools that are useful and meaningful  
+I enjoy tackling complex problems and applying modern web, mobile, and AI technologies to create meaningful tools.
+</td>
+<td width="40%" valign="top">
+
+### Key Highlights
+* **Internship:** SOFI AI Tech Solution Inc.
+* **Domain Focus:** AI Systems & Healthcare Tech
+* **Technical Growth:** System Architecture & Cloud
+* **Philosophy:** Building useful & scalable solutions
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
