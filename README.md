@@ -34,7 +34,7 @@ I enjoy tackling complex problems and applying modern web, mobile, and AI techno
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,cpp" /><br/>
@@ -49,16 +49,8 @@ I enjoy tackling complex problems and applying modern web, mobile, and AI techno
 
 > **Open for Opportunities:** Internships | AI & Full-Stack Collaborations | Open Source
 
-<p align="left">
-  <a href="mailto:nigelnunyez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nigelnunyez%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nigel-nuñez-6b69aa399/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nigel_Nuñez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/NigelHans">
-    <img src="https://img.shields.io/badge/GitHub-NigelHans-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+`Email` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [nigelnunyez@gmail.com](mailto:nigelnunyez@gmail.com)  
+`LinkedIn` &nbsp;&nbsp;&nbsp;&nbsp; [linkedin.com/in/nigel-nuñez](https://www.linkedin.com/in/nigel-nuñez-6b69aa399/)  
+`GitHub` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [github.com/NigelHans](https://github.com/NigelHans)  
 
 ---
