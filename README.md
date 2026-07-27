@@ -49,13 +49,16 @@ I enjoy tackling complex problems and applying modern web, mobile, and AI techno
 
 > **Open for Opportunities:** Internships | AI & Full-Stack Collaborations | Open Source
 
-<pre>
-<b>Contact:</b>
-  <b>Email:</b>    <a href="mailto:nigelnunyez@gmail.com">nigelnunyez@gmail.com</a>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nigel-nuñez-6b69aa399/">linkedin.com/in/nigel-nuñez</a>
-  <b>GitHub:</b>   <a href="https://github.com/NigelHans">github.com/NigelHans</a>
-</pre>
-
-*Feel free to reach out if you would like to discuss potential projects or engineering roles.*
+<p align="left">
+  <a href="mailto:nigelnunyez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nigelnunyez%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nigel-nuñez-6b69aa399/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nigel_Nuñez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NigelHans">
+    <img src="https://img.shields.io/badge/GitHub-NigelHans-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
