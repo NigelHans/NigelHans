@@ -1,81 +1,87 @@
-# 👋 Hi, I'm Nigel Hans G. Nuñez
+<!-- Typing Animation Header -->
 
-🎓 **Computer Science Student** at Batangas State University – The National Engineering University
-💻 Passionate about building real-world systems, AI-driven solutions, and full-stack applications
-🚀 Currently exploring **Agentic AI, Web Development, and System Design**
+<h1 align="center">
+  Hi, I'm Nigel Hans G. Nuñez
+</h1>
 
----
-
-## 🧠 About Me
-
-* 🔭 I’m currently working on **AI-powered and healthcare-related systems**
-* 🌱 Learning more about **cloud integration, scalable systems, and automation**
-* 🛠️ Interested in **building tools that solve real-world problems**
-* 📍 Based in the Philippines
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast;Building+Real-World+Systems" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Languages
+I am a Computer Science student at Batangas State University – The National Engineering University. I enjoy building practical systems that solve real problems, especially in areas related to AI and web development.
 
-* C# | Java | Python | C++ | JavaScript
+Currently, I am focused on improving my skills in cloud technologies, system design, and automation while working on projects that have real-world impact.
 
-### 🌐 Web & Frameworks
-
-* ASP.NET Core | Blazor | React | Laravel | Flutter
-
-### 🗄️ Databases
-
-* MySQL | PostgreSQL | Firebase
-
-### ⚙️ Tools & Platforms
-
-* Git & GitHub
-* Figma
-* Firebase
-* Supabase
-* ClickUp
+* Working on AI-powered and healthcare-related systems
+* Continuously learning about scalable and efficient architectures
+* Interested in developing tools that are useful and meaningful
+* Based in the Philippines
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🏥 Pulse – AI Healthcare Platform
+### Languages
 
-* Real-time hospital availability and doctor schedules
-* Built with Flutter, Firebase, and Python AI models
+C#, Java, Python, C++, JavaScript
 
-### 🗺️ Kalinga – Healthcare Mapping App
+### Frameworks
 
-* Maps healthcare facilities with GIS integration
-* Focused on accessibility and real-time data
+ASP.NET Core, Blazor, React, Laravel, Flutter
 
-### 📦 SmartStock – Inventory System
+### Databases
 
-* Tracks expiration dates of products
-* Built with Flask and MySQL
+MySQL, PostgreSQL, Firebase
 
-### 🎟️ Voucher Automation System
+### Tools and Platforms
 
-* Telegram bot that generates vouchers from Google Sheets
-* Uses FastAPI + Apps Script integration
+Git, GitHub, Figma, Firebase, Supabase, ClickUp
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NigelHans\&show_icons=true\&theme=tokyonight)
+### Pulse – AI Healthcare Platform
+
+A system designed to provide real-time hospital availability and doctor schedules, supported by predictive insights using AI.
+Built with Flutter, Firebase, and Python.
+
+### Kalinga – Healthcare Mapping System
+
+A web-based application that maps healthcare facilities using GIS technology, aiming to improve accessibility to medical services.
+
+### SmartStock – Inventory System
+
+A system that tracks product expiration dates to help manage inventory efficiently.
+Built using Flask and MySQL.
+
+### Voucher Automation System
+
+A Telegram bot that automatically generates vouchers by retrieving unused codes from Google Sheets.
+Powered by FastAPI and Google Apps Script.
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-* 💼 Open for internships, collaborations, and projects
-* 📧 Feel free to reach out!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NigelHans&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NigelHans&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## Connect With Me
 
-I enjoy turning complex ideas into simple, working systems 🚀
+I am open to internships, collaborations, and opportunities to work on meaningful projects. Feel free to reach out.
+
+---
+
+## Personal Note
+
+I enjoy taking complex ideas and turning them into simple, working systems.
