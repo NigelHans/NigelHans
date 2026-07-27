@@ -25,76 +25,46 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 ## Tech Stack
 
 <p align="center">
+  <svg width="420" height="380" viewBox="0 0 420 380">
 
-<!-- Top lobes -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+    <!-- Row 1 -->
+    <image href="https://img.shields.io/badge/C%23-239120?style=for-the-badge" x="90" y="20" width="120"/>
+    <image href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" x="210" y="20" width="120"/>
 
-<br>
+    <!-- Row 2 -->
+    <image href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" x="40" y="70" width="120"/>
+    <image href="https://img.shields.io/badge/C++-00599C?style=for-the-badge" x="140" y="70" width="120"/>
+    <image href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge" x="240" y="70" width="120"/>
 
-<!-- Upper curve -->
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge"/>
-&nbsp;&nbsp;&nbsp;
+    <!-- Row 3 -->
+    <image href="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge" x="20" y="120" width="120"/>
+    <image href="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge" x="120" y="120" width="120"/>
+    <image href="https://img.shields.io/badge/React-20232A?style=for-the-badge" x="220" y="120" width="120"/>
+    <image href="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" x="320" y="120" width="120"/>
 
-<br>
+    <!-- Row 4 -->
+    <image href="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge" x="60" y="170" width="120"/>
+    <image href="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge" x="160" y="170" width="120"/>
+    <image href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" x="260" y="170" width="120"/>
 
-<!-- widest part -->
-&nbsp;
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge"/>
-&nbsp;
+    <!-- Row 5 -->
+    <image href="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge" x="100" y="220" width="120"/>
+    <image href="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" x="200" y="220" width="120"/>
 
-<br>
+    <!-- Row 6 -->
+    <image href="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" x="140" y="270" width="120"/>
+    <image href="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" x="240" y="270" width="120"/>
 
-<!-- narrowing -->
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PaddleOCR-005BAC?style=for-the-badge"/>
-&nbsp;&nbsp;&nbsp;
+    <!-- Row 7 -->
+    <image href="https://img.shields.io/badge/PaddleOCR-005BAC?style=for-the-badge" x="180" y="320" width="120"/>
 
-<br>
+    <!-- Bottom tip -->
+    <image href="https://img.shields.io/badge/Git-F05032?style=for-the-badge" x="150" y="360" width="120"/>
+    <image href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" x="220" y="360" width="120"/>
+    <image href="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" x="185" y="400" width="120"/>
+    <image href="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge" x="185" y="440" width="120"/>
 
-<!-- lower narrowing -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-
-<!-- tip -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge"/>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge"/>
-
+  </svg>
 </p>
 
 ---
