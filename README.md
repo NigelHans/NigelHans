@@ -22,6 +22,9 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 * Based in the Philippines
 
 ---
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigelHans&layout=compact&theme=tokyonight)
 
 ## Tech Stack
 
