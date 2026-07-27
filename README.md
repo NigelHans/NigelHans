@@ -22,65 +22,13 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 - Interested in developing tools that are useful and meaningful  
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square)
-
----
-
-### Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square)
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
-
-</td>
-
-<td valign="top" width="50%">
-
-### Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square)
-
----
-
-### AI / Search / Computer Vision
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat-square)
-![FAISS Index](https://img.shields.io/badge/FAISS%20Index-0467DF?style=flat-square)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-005BAC?style=flat-square)
-
----
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NigelHans&theme=tokyonight" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,js,dotnet,react,laravel,flutter,postgres,mysql,supabase,firebase,git,github,figma" />
+  </a>
 </p>
-
 ---
 ## Connection
 
