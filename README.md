@@ -47,5 +47,10 @@ I enjoy tackling complex problems and applying modern web, mobile, and AI techno
 
 ## Connection
 
-I am open to internships, collaborations, and opportunities to work on meaningful projects. Feel free to reach out.
----
+> **Open for Opportunities:** Internships | AI & Full-Stack Collaborations | Open Source
+
+```yaml
+Contact:
+  Email:    "nigelnunyez@gmail.com"
+  LinkedIn: "[https://www.linkedin.com/in/nigel-nuñez-6b69aa399/](https://www.linkedin.com/in/nigel-nuñez-6b69aa399/)"
+  GitHub:   "[https://github.com/NigelHans](https://github.com/NigelHans)"
