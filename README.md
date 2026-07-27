@@ -24,6 +24,10 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
@@ -40,7 +44,9 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square)
@@ -63,7 +69,9 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square)
 
----
+</td>
+</tr>
+</table>
 
 ---
 
