@@ -16,13 +16,19 @@ I am a Computer Science student at Batangas State University – The National En
 
 Currently, I am focused on improving my skills in cloud technologies, system design, and automation while working on projects that have real-world impact.
 
-* Working on AI-powered and healthcare-related systems
-* Continuously learning about scalable and efficient architectures
-* Interested in developing tools that are useful and meaningful
-* Based in the Philippines
+- Working on AI-powered and healthcare-related systems  
+- Continuously learning about scalable and efficient architectures  
+- Interested in developing tools that are useful and meaningful  
+- Based in the Philippines  
 
 ---
-## Tech Stack
+
+## ❤️ Tech Stack
+
+<!-- 🔥 REPLACE THIS WITH YOUR GIF LATER -->
+<p align="center">
+  <img src="https://i.imgur.com/your-heart.gif" width="250"/>
+</p>
 
 <p align="center">
 
@@ -116,22 +122,18 @@ Currently, I am focused on improving my skills in cloud technologies, system des
 ## Featured Projects
 
 ### Pulse – AI Healthcare Platform
-
-A system designed to provide real-time hospital availability and doctor schedules, supported by predictive insights using AI.
+A system designed to provide real-time hospital availability and doctor schedules, supported by predictive insights using AI.  
 Built with Flutter, Firebase, and Python.
 
 ### Kalinga – Healthcare Mapping System
-
 A web-based application that maps healthcare facilities using GIS technology, aiming to improve accessibility to medical services.
 
 ### SmartStock – Inventory System
-
-A system that tracks product expiration dates to help manage inventory efficiently.
+A system that tracks product expiration dates to help manage inventory efficiently.  
 Built using Flask and MySQL.
 
 ### Voucher Automation System
-
-A Telegram bot that automatically generates vouchers by retrieving unused codes from Google Sheets.
+A Telegram bot that automatically generates vouchers by retrieving unused codes from Google Sheets.  
 Powered by FastAPI and Google Apps Script.
 
 ---
